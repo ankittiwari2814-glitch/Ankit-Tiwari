@@ -29,22 +29,6 @@ body {
     overflow-x: hidden;
 }
 
-.bio-content {
-    display: flex;
-    align-items: center;
-    gap: 40px;
-}
-
-.bio-photo {
-    flex-shrink: 0;
-}
-
-.profile-img {
-    width: 280px;
-    height: 280px;
-    object-fit: cover;
-    border-radius: 50%;
-    border: 4px solid #d4af37;
 }
 
 .container {
