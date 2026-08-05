@@ -6,14 +6,15 @@
 }
 
 :root {
-    --primary-color: #1c1c1c;      /* rich charcoal - not pure black, softer on screen */
-    --secondary-color: #c9a876;    /* warm film-grain gold - highlights, CTAs */
-    --accent-color: #8b3a3a;       /* muted brick red - dramatic but not garish */
-    --neon-blue: #3d5a6c;          /* desaturated teal - the "cool" half of teal/orange grading */
-    --text-color: #f5f2ea;         /* warm off-white, not stark white */
-    --text-dark: #1c1c1c;
-    --background: #0d0d0d;
-    --card-bg: #1a1815;            /* warm-tinted dark, not blue-black */
+    --primary-color: #2b2320;      /* warm dark brown - base background */
+    --secondary-color: #f4a259;    /* soft peach-orange - primary accent, CTAs */
+    --accent-color: #e07a5f;       /* muted coral - highlights */
+    --neon-blue: #81b29a;          /* soft sage-teal - secondary accent */
+    --neon-purple: #f2cc8f;        /* warm butter yellow - sparingly, hover/tags */
+    --text-color: #f4f1de;         /* warm cream - soft white replacement */
+    --text-dark: #2b2320;
+    --background: #211a17;         /* deep warm brown-black */
+    --card-bg: #3d3128;            /* lighter warm brown - card surfaces */
     --transition: all 0.3s ease;
 }
 
