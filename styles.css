@@ -7,13 +7,13 @@
 
 :root {
     --primary-color: #0a0e27;
-    --secondary-color: #00ff88;
+    --secondary-color: ##ff00b7;
     --accent-color: #ff006e;
     --neon-blue: #00d4ff;
     --neon-purple: #c700ff;
     --text-color: #ffffff;
     --text-dark: #333333;
-    --background: #0f0f1e;
+    --background: ##215057;
     --card-bg: #1a1a2e;
     --transition: all 0.3s ease;
 }
