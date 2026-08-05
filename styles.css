@@ -6,15 +6,14 @@
 }
 
 :root {
-    --primary-color: #0a0e27;      /* deep midnight blue - base */
-    --secondary-color: #2dbdc4;    /* warm amber/orange - cinematic accent */
-    --accent-color: #e63946;       /* deep red - dramatic highlight */
-    --neon-blue: #00d4ff;          /* cyan - tech/modern accent */
-    --neon-purple: #7b2cbf;        /* muted violet - depth, less "arcade" */
-    --text-color: #3fba9b;
-    --text-dark: #333333;
-    --background: #0f0f0f;         /* near-black - film noir base */
-    --card-bg: #1a1a2e;            /* dark navy card - contrast without being pure black */
+    --primary-color: #1c1c1c;      /* rich charcoal - not pure black, softer on screen */
+    --secondary-color: #c9a876;    /* warm film-grain gold - highlights, CTAs */
+    --accent-color: #8b3a3a;       /* muted brick red - dramatic but not garish */
+    --neon-blue: #3d5a6c;          /* desaturated teal - the "cool" half of teal/orange grading */
+    --text-color: #f5f2ea;         /* warm off-white, not stark white */
+    --text-dark: #1c1c1c;
+    --background: #0d0d0d;
+    --card-bg: #1a1815;            /* warm-tinted dark, not blue-black */
     --transition: all 0.3s ease;
 }
 
