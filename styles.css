@@ -6,14 +6,15 @@
 }
 
 :root {
-    --primary-color: #1c1c1c;      /* rich charcoal - not pure black, softer on screen */
-    --secondary-color: #c9a876;    /* warm film-grain gold - highlights, CTAs */
-    --accent-color: #8b3a3a;       /* muted brick red - dramatic but not garish */
-    --neon-blue: #3d5a6c;          /* desaturated teal - the "cool" half of teal/orange grading */
-    --text-color: #f5f2ea;         /* warm off-white, not stark white */
-    --text-dark: #1c1c1c;
-    --background: #0d0d0d;
-    --card-bg: #1a1815;            /* warm-tinted dark, not blue-black */
+    --primary-color: #001219;      /* near-black navy - base background */
+    --secondary-color: #EE9B00;    /* amber - primary accent, CTAs */
+    --accent-color: #AE2012;       /* deep red - dramatic highlight */
+    --neon-blue: #0A9396;          /* teal - secondary accent */
+    --neon-purple: #94D2BD;        /* mint - sparingly, for subtle highlights/hover states */
+    --text-color: #E9D8A6;         /* warm sand - softer than pure white, film-like */
+    --text-dark: #001219;
+    --background: #001219;
+    --card-bg: #005F73;            /* deep teal - card surfaces, gives depth against navy bg */
     --transition: all 0.3s ease;
 }
 
