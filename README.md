@@ -63,4 +63,4 @@ Edit `index.html` to update:
 - Mobile browsers
 
 ## License
-© 2024 Ankit Tiwari. All rights reserved.
+© 2026 Ankit Tiwari. All rights reserved.
