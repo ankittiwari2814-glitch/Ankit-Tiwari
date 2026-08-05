@@ -6,15 +6,14 @@
 }
 
 :root {
-    --primary-color: #001219;     
-    --secondary-color: #EE9B00;    
-    --accent-color: #AE2012;       
-    --neon-blue: #0A9396;          
-    --neon-purple: #94D2BD;        
-    --text-color: #E9D8A6;        
-    --text-dark: #001219;
-    --background: #001219;
-    --card-bg: #005F73;           
+    --primary-color: #1c1c1c;      
+    --secondary-color: #c9a876;   
+    --accent-color: #8b3a3a;       
+    --neon-blue: #3d5a6c;          
+    --text-color: #f5f2ea;         
+    --text-dark: #1c1c1c;
+    --background: #0d0d0d;
+    --card-bg: #1a1815;            
     --transition: all 0.3s ease;
 }
 
